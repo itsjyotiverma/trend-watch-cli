@@ -1,0 +1,19 @@
+{
+  "name": "trend-watch-cli",
+  "version": "1.0.0",
+  "description": "Track and manage trending tech topics via the command line.",
+  "main": "index.js",
+  "bin": {
+    "trend-watch": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "trends",
+    "topics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}

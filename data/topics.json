@@ -1,0 +1,37 @@
+{
+  "ai-agents": [
+    "Autonomous agent swarms",
+    "Human-in-the-loop agent oversight",
+    "Long-running agent memory",
+    "Agent marketplaces for micro-tasks",
+    "Workflow copilots for SMBs"
+  ],
+  "privacy-first-apps": [
+    "Zero-knowledge identity systems",
+    "Federated learning for mobile apps",
+    "End-to-end encrypted databases",
+    "On-device analytics bundles",
+    "Contextual consent management tooling"
+  ],
+  "healthcare-automation": [
+    "Robotic process automation for billing",
+    "AI-powered diagnostic imaging",
+    "Automated patient scheduling",
+    "Ambient clinical documentation",
+    "Virtual care coordination hubs"
+  ],
+  "creator-tools": [
+    "AI-assisted video editing",
+    "NFT-based content monetization",
+    "Decentralized social media platforms",
+    "Interactive storytelling engines",
+    "Realtime audience co-creation dashboards"
+  ],
+  "edtech-2026": [
+    "Personalized learning paths with AI",
+    "Immersive VR/AR classroom experiences",
+    "Gamified skill development platforms",
+    "Global credential wallets",
+    "Asynchronous mentorship networks"
+  ]
+}
